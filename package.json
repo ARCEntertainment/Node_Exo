@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_exo1",
+  "version": "1.0.0",
+  "description": "NodeJS exercise 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARCEntertainment/Node_Exo.git"
+  },
+  "keywords": [
+    "npm",
+    "command",
+    "samples"
+  ],
+  "author": "Lardo Ark Entertainment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARCEntertainment/Node_Exo/issues"
+  },
+  "homepage": "https://github.com/ARCEntertainment/Node_Exo#readme"
+}
